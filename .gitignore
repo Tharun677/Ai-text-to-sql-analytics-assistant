@@ -24,3 +24,10 @@ htmlcov/
 
 # Streamlit secrets
 .streamlit/secrets.toml
+# Private environment files
+.env
+.venv/
+.venv313/
+__pycache__/
+*.py[cod]
+

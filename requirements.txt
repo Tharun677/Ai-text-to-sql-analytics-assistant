@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+sqlalchemy
+python-dotenv
+google-genai
+sentence-transformers
+scikit-learn
+plotly
+sqlglot>=30.33.0
